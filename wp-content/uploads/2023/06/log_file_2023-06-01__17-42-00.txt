@@ -1,0 +1,77 @@
+
+---Downloaded files---
+The import files for: Home v1 - v7 Elementor were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/multivendor
+Data file = C:\xampp\htdocs\multivendor/wp-content/themes/electro/assets/dummy-data/elementor/dummy-data.xml
+Widget file = C:\xampp\htdocs\multivendor/wp-content/themes/electro/assets/dummy-data/elementor/widgets.wie
+Customizer file = not defined!
+Redux files:
+electro_options -> C:\xampp\htdocs\multivendor/wp-content/themes/electro/assets/dummy-data/elementor/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Home Sidebar : 
+
+Image - No Title - Imported
+Products list - Latest Products - Imported
+Electro Features Block - No Title - Imported
+Electro Products Carousel - Featured Products - Imported
+Electro Posts Carousel - From the Blog - Imported
+
+Shop Sidebar : 
+
+Electro Product Categories - No Title - Imported
+Electro Product Filter - Filters - Imported
+Image - No Title - Imported
+Products list - Latest Products - Imported
+
+Product Filters : 
+
+Active Product Filters - Active Filters - Imported
+Filter Products by Attribute - Brands - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Price - Price - Imported
+
+Blog Sidebar : 
+
+Search - No Title - Imported
+Text - About Blog - Imported
+Categories - Categories - Imported
+Electro Recent Posts - Recent Posts - Imported
+Tag Cloud - Tags Clouds - Imported
+
+Footer Widgets : 
+
+Products list - Featured Products - Imported
+Products list - Top Selling Products - Imported
+Products list - On-sale Products - Imported
+
+Footer Bottom Widgets : 
+
+Navigation Menu - Find It Fast - Imported
+Navigation Menu -   - Imported
+Navigation Menu - Customer Care - Imported
+
+Mobile Footer Bottom Widgets : 
+
+Navigation Menu - We Recommend - Imported
+Navigation Menu - My Account - Imported
+Navigation Menu - Customer Care - Imported
+Navigation Menu - About Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: electro_options finished successfully!
+
+---ocdi/after_import---
+

@@ -1,0 +1,88 @@
+[info]-[2023/06/01 23:15:36] Backup requirements passed...
+[info]-[2023/06/01 23:15:37] Discovering Files: Skipped directory "wp-content/plugins/wp-staging-pro/". Excluded by rule
+[info]-[2023/06/01 23:15:40] Discovering Files: Skipped directory "wp-content/uploads/wp-staging/". Excluded by rule
+[info]-[2023/06/01 23:15:44] Discovering Files: Skipped file "wp-content/uploads/wc-logs/wc-image-regeneration-2023-06-01-88b8c0985895acd8bdc45d9a6c4c15bb.log/." Extension "log" is excluded by rule.
+[info]-[2023/06/01 23:15:44] Finished discovering Files. (13192 files)
+[info]-[2023/06/01 23:15:44] Added 1/1 otherfiles files to backup (3 KB/s)
+[info]-[2023/06/01 23:15:54] Added 1327/12025 plugins files to backup (5 MB/s)
+[info]-[2023/06/01 23:16:05] Added 2736/12025 plugins files to backup (2 MB/s)
+[info]-[2023/06/01 23:16:15] Added 3482/12025 plugins files to backup (2 MB/s)
+[info]-[2023/06/01 23:16:25] Added 4965/12025 plugins files to backup (2 MB/s)
+[info]-[2023/06/01 23:16:36] Added 6263/12025 plugins files to backup (1 MB/s)
+[info]-[2023/06/01 23:16:46] Added 6847/12025 plugins files to backup (913 KB/s)
+[info]-[2023/06/01 23:16:56] Added 8176/12025 plugins files to backup (350 KB/s)
+[info]-[2023/06/01 23:17:07] Added 9525/12025 plugins files to backup (968 KB/s)
+[info]-[2023/06/01 23:17:17] Added 10575/12025 plugins files to backup (1 MB/s)
+[info]-[2023/06/01 23:17:27] Added 11065/12025 plugins files to backup (612 KB/s)
+[info]-[2023/06/01 23:17:38] Added 11565/12025 plugins files to backup (662 KB/s)
+[info]-[2023/06/01 23:17:46] Added 12025/12025 plugins files to backup (886 KB/s)
+[info]-[2023/06/01 23:17:46] Added 0/0 muplugins files to backup (0 B/s)
+[info]-[2023/06/01 23:17:57] Added 863/1081 themes files to backup (5 MB/s)
+[info]-[2023/06/01 23:17:59] Added 1081/1081 themes files to backup (5 MB/s)
+[info]-[2023/06/01 23:18:00] Added 85/85 uploads files to backup (21 MB/s)
+[info]-[2023/06/01 23:18:01] Export database: Table wp_actionscheduler_actions. Rows: 31/31
+[info]-[2023/06/01 23:18:01] Export database: Table wp_actionscheduler_claims. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_actionscheduler_groups. Rows: 3/3
+[info]-[2023/06/01 23:18:01] Export database: Table wp_actionscheduler_logs. Rows: 87/87
+[info]-[2023/06/01 23:18:01] Export database: Table wp_commentmeta. Rows: 213/213
+[info]-[2023/06/01 23:18:01] Export database: Table wp_comments. Rows: 110/110
+[info]-[2023/06/01 23:18:01] Export database: Table wp_e_events. Rows: 2/2
+[info]-[2023/06/01 23:18:01] Export database: Table wp_links. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_options. Rows: 802/802
+[info]-[2023/06/01 23:18:01] Export database: Table wp_postmeta. Rows: 6,848/6,848
+[info]-[2023/06/01 23:18:01] Export database: Table wp_posts. Rows: 567/567
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_css. Rows: 109/109
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_css_bkp. Rows: 47/47
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_layer_animations. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_layer_animations_bkp. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_navigations. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_navigations_bkp. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_sliders. Rows: 6/6
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_sliders_bkp. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_slides. Rows: 20/20
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_slides_bkp. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_static_slides. Rows: 6/6
+[info]-[2023/06/01 23:18:01] Export database: Table wp_revslider_static_slides_bkp. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_term_relationships. Rows: 629/629
+[info]-[2023/06/01 23:18:01] Export database: Table wp_term_taxonomy. Rows: 224/224
+[info]-[2023/06/01 23:18:01] Export database: Table wp_termmeta. Rows: 920/920
+[info]-[2023/06/01 23:18:01] Export database: Table wp_terms. Rows: 224/224
+[info]-[2023/06/01 23:18:01] Export database: Table wp_usermeta. Rows: 30/30
+[info]-[2023/06/01 23:18:01] Export database: Table wp_users. Rows: 1/1
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_admin_note_actions. Rows: 73/73
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_admin_notes. Rows: 52/52
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_category_lookup. Rows: 230/230
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_customer_lookup. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_download_log. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_order_coupon_lookup. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_order_product_lookup. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_order_stats. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_order_tax_lookup. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_product_attributes_lookup. Rows: 29/29
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_product_download_directories. Rows: 2/2
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_product_meta_lookup. Rows: 4/4
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_rate_limits. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_reserved_stock. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_tax_rate_classes. Rows: 2/2
+[info]-[2023/06/01 23:18:01] Export database: Table wp_wc_webhooks. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_woocommerce_api_keys. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_woocommerce_attribute_taxonomies. Rows: 2/2
+[info]-[2023/06/01 23:18:01] Export database: Table wp_woocommerce_downloadable_product_permissions. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_woocommerce_log. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_woocommerce_order_itemmeta. Rows: 0/0
+[info]-[2023/06/01 23:18:01] Export database: Table wp_woocommerce_order_items. Rows: 0/0
+[info]-[2023/06/01 23:18:02] Export database: Table wp_woocommerce_payment_tokenmeta. Rows: 0/0
+[info]-[2023/06/01 23:18:02] Export database: Table wp_woocommerce_payment_tokens. Rows: 0/0
+[info]-[2023/06/01 23:18:02] Export database: Table wp_woocommerce_sessions. Rows: 1/1
+[info]-[2023/06/01 23:18:02] Export database: Table wp_woocommerce_shipping_zone_locations. Rows: 0/0
+[info]-[2023/06/01 23:18:02] Export database: Table wp_woocommerce_shipping_zone_methods. Rows: 0/0
+[info]-[2023/06/01 23:18:02] Export database: Table wp_woocommerce_shipping_zones. Rows: 0/0
+[info]-[2023/06/01 23:18:02] Export database: Table wp_woocommerce_tax_rate_locations. Rows: 0/0
+[info]-[2023/06/01 23:18:02] Export database: Table wp_woocommerce_tax_rates. Rows: 0/0
+[info]-[2023/06/01 23:18:02] Export database: Table wp_wpforms_tasks_meta. Rows: 2/2
+[info]-[2023/06/01 23:18:02] Export database: Skipped Table wp_wpstg_queue by exclusion rule
+[info]-[2023/06/01 23:18:02] Export database: Table wp_yith_wcwl. Rows: 0/0
+[info]-[2023/06/01 23:18:02] Export database: Table wp_yith_wcwl_lists. Rows: 0/0
+[info]-[2023/06/01 23:18:02] Included 16 MB/16 MB of Database Export.
+[info]-[2023/06/01 23:18:02] Successfully created backup file
+[info]-[2023/06/01 23:18:03] The backup was validated successfully.
